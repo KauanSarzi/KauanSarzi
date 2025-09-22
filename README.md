@@ -10,7 +10,6 @@
 - 📊 Buscando oportunidades de estágio em **back-end** e **data analysis**  
 - 🔧 Experiência acadêmica e projetos pessoais em **Java, Python, SQL e modelagem de dados**  
 - 🎯 Objetivo: aplicar tecnologia para **otimizar processos financeiros, analisar grandes volumes de dados e criar soluções escaláveis**  
-- 🌍 Inspirado por empresas globais como **Morgan Stanley, JPMorgan, Amazon, UBS**  
 
 ---
 
@@ -50,8 +49,8 @@
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)  
-[![Email](https://img.shields.io/badge/Email-kauan.sarzi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauan.sarzi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kauan-sarzi)  
+[![Email](https://img.shields.io/badge/Email-kauan.sarzi%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi57@gmail.com)  
 
 ---
 
