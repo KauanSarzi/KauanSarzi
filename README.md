@@ -42,7 +42,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauansarzi&show_icons=true&include_all_commits=true&theme=tokyonight)  
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauansarzi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansarzi&layout=compact&theme=tokyonight)  
 
 </div>
