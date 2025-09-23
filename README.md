@@ -29,21 +29,12 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🔹 [**Portal de Estágios**](#) – Sistema acadêmico com foco em persistência de dados e segurança  
-- 🔹 [**Análise de dados com Python/CSV**](#) – análise interativa de dados e Visualização com HTML
-- 🔹 [**Estruturas de Dados em Java**](#) – listas, árvores e algoritmos aplicados em projetos acadêmicos  
+- 🔹 [**Portal de Estágios**](https://github.com/KauanSarzi/portalestagio) – Sistema acadêmico com foco em persistência de dados e segurança  
+- 🔹 [**Análise de dados com Python/CSV**](https://github.com/KauanSarzi/projeto-python-mackenzie) – análise interativa de dados e Visualização com HTML
+- 🔹 [**Estruturas de Dados em Java**](https://github.com/KauanSarzi/Estrutura-De-Dados) – listas, árvores e algoritmos aplicados em projetos acadêmicos  
  
 
----
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauansarzi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-</div>
-
----
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kauan-sarzi)  
