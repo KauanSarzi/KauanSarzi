@@ -44,6 +44,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kauan-sarzi)  
 [![Email](https://img.shields.io/badge/Email-kauansarzi57%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi57@gmail.com)  
 
----
-
-✨ _"Tecnologia aplicada a dados é a base para decisões inteligentes no mercado financeiro."_ ✨
