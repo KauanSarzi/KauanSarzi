@@ -35,7 +35,7 @@
 ## 📌 Projetos em Destaque
 - 🔹 [**Portal de Estágios**](https://github.com/KauanSarzi/portalestagio) – Sistema acadêmico com foco em persistência de dados e segurança  
 - 🔹 [**Análise de dados com Python/CSV**](https://github.com/KauanSarzi/projeto-python-mackenzie) – análise interativa de dados e Visualização com HTML
-- 🔹 [**Estruturas de Dados em Java**](https://github.com/KauanSarzi/Estrutura-De-Dados) – listas, árvores e algoritmos aplicados em projetos acadêmicos  
+- 🔹 [**Sistema Estacionamento BD**](https://github.com/KauanSarzi/sistema-estacionamento-bd) – Modelagem completa de banco de dados para otimizar a busca por estacionamentos utilizando geolocalização, reservas e avaliações.
  
 
 
