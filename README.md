@@ -33,8 +33,8 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🔹 [**Portal de Estágios**](https://github.com/KauanSarzi/portalestagio) – Sistema web que conecta estudantes e empresas, permitindo cadastrar vagas, perfis e inscrições com persistência de dados em Java + Spring Boot.
-- 🔹 [**E-mack**](https://github.com/KauanSarzi/projeto-python-mackenzie) – Ferramenta de análise de dados em Python para processar CSVs de e-commerce e produzir relatórios HTML dinâmicos .
+- 🔹 [**Portal de Estágios**](https://github.com/KauanSarzi/portalestagio) – Sistema que conecta estudantes e empresas, permitindo cadastrar vagas, perfis e inscrições com persistência de dados em Java + Spring Boot.
+- 🔹 [**E-mack**](https://github.com/KauanSarzi/projeto-python-mackenzie) – Ferramenta de análise de dados em Python para processar CSVs de e-commerce e produzir relatórios HTML dinâmicos.
 - 🔹 [**Sistema Estacionamento BD**](https://github.com/KauanSarzi/sistema-estacionamento-bd) – Modelagem completa de banco de dados para otimizar a busca por estacionamentos utilizando geolocalização, reservas e avaliações.
  
 
