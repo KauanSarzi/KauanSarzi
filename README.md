@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Kauan Sarzi  
 
-🎓 Estudante de Sistemas de Informação - Mackenzie  
+🎓 Estudante do 4 semestre de Sistemas de Informação - Mackenzie  
 💻 Foco em **Back-End** e **Análise de Dados**  
 🏦 Interesse em atuar em multinacionais do setor financeiro e tecnológico  
 
