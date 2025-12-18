@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Kauan Sarzi  
 
-🎓 Estudante do 4 semestre de Sistemas de Informação - Mackenzie  
-💻 Foco em **Back-End** e **Análise de Dados**  
-🏦 Interesse em atuar em multinacionais do setor financeiro e tecnológico  
+Estudante de Sistemas de Informação (4º semestre), com foco em desenvolvimento de software e análise de dados.  
+Tenho interesse em construir soluções técnicas bem estruturadas, utilizando lógica, dados e código para resolver problemas reais de negócio.
 
 ---
 
-## 🚀 Sobre mim
-- 📊 Buscando oportunidades de estágio em **back-end**, **data analysis** e **data science**  
-- 🔧 Experiência acadêmica e projetos pessoais em **Java, Python, SQL e modelagem de dados**  
-- 🎯 Objetivo: aplicar tecnologia para **otimizar processos financeiros, analisar grandes volumes de dados e criar soluções escaláveis**  
+## Áreas de Interesse
+- Desenvolvimento de Software (Back-end)
+- Análise de Dados
+- Tecnologia aplicada a negócios e finanças
+
 
 ---
 
@@ -42,5 +42,5 @@
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Sarzi-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kauan-sarzi)  
-[![Email](https://img.shields.io/badge/Email-kauansarzi57%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi24@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-kauansarzi24%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansarzi24@gmail.com)  
 
