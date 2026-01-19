@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Kauan Sarzi  
 
-Estudante de Sistemas de Informação (4º semestre), com foco em desenvolvimento de software e análise de dados.  
+Estudante de Sistemas de Informação (5º semestre), com foco em desenvolvimento de software e análise de dados.  
 Tenho interesse em construir soluções técnicas bem estruturadas, utilizando lógica, dados e código para resolver problemas reais de negócio.
 
 ---
