@@ -11,7 +11,7 @@ I build backend applications, analyze data, and develop technical solutions usin
 - Backend Development (Java, Spring Boot)
 - Data Engineering and Data Analysis
 - Cloud Data Platforms (BigQuery, GCP)
-- Financial and Data-driven systems
+- Software Engenieering
 ---
 
 ## 🛠️ Technologies and Tools
