@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Kauan Sarzi  
 
-Information Systems student (5th semester) focused on backend development and data-driven systems.
+Backend-focused Information Systems student (5th semester) passionate about building scalable and well-structured software systems.
 
-I build backend applications, analyze data, and develop technical solutions using modern tools and best practices.
+I design and develop backend applications using Java and Spring Boot, working with REST APIs, relational databases and clean architecture principles. I also have experience with data processing and analytics, applying structured problem-solving to real-world scenarios.
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Backend Development (Java, Spring Boot)
-- Data Engineering and Data Analysis
-- Cloud Data Platforms (BigQuery, GCP)
-- Software Engenieering
+- Backend Development 
+- Software Engineering
+- API Design & System Architecture
+- Database Design & Performance
+- Data Processing (as a backend capability)
+
 ---
 
 ## 🛠️ Technologies and Tools
@@ -21,10 +23,8 @@ I build backend applications, analyze data, and develop technical solutions usin
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
 
 </div>
 
@@ -33,30 +33,34 @@ I build backend applications, analyze data, and develop technical solutions usin
 ## 📌 Featured Projects
 
 ### 🔹 [Internship Portal](https://github.com/KauanSarzi/portalestagio)  
-Backend system built using Java and Spring Boot that connects students and companies, allowing job posting, profile management, and internship applications using REST APIs and relational database persistence.
+Backend system built with Java and Spring Boot that connects students and companies, supporting job postings, authentication, profile management and internship applications through REST APIs and relational database persistence.
 
-**Tech stack:** Java, Spring Boot, SQL, REST APIs
-
----
-
-### 🔹 [Credit Card Default Risk Analysis](https://github.com/KauanSarzi/credit-card-default-case)  
-Data analysis project using SQL in Google BigQuery to identify patterns related to credit default risk and build data visualizations for decision support.
-
-**Tech stack:** SQL, BigQuery (GCP), Data Analysis
+**Focus:** Backend Architecture, REST APIs, Database Design  
+**Tech stack:** Java, Spring Boot, SQL
 
 ---
 
 ### 🔹 [HTML Analyzer](https://github.com/KauanSarzi/HtmlAnalyzer)  
-Java application that analyzes HTML structure using Stack-based parsing to identify the deepest text node, demonstrating data structures and algorithmic problem-solving.
+Java application that parses and analyzes HTML structure using stack-based logic to identify the deepest text node, demonstrating data structures and algorithmic thinking.
 
-**Tech stack:** Java, Algorithms, Data Structures
+**Focus:** Algorithms, Data Structures, Problem-Solving  
+**Tech stack:** Java
 
 ---
 
 ### 🔹 [E-Mack Data Analyzer](https://github.com/KauanSarzi/E-mack)  
-Python application that processes e-commerce CSV data and generates automated HTML reports with product analysis and rankings.
+Python application that processes structured data and generates automated HTML reports, reinforcing backend logic and data manipulation.
 
-**Tech stack:** Python, Data Processing, HTML
+**Focus:** Data Processing, Structured Logic  
+**Tech stack:** Python
+
+---
+
+### 🔹 [Credit Card Default Risk Analysis](https://github.com/KauanSarzi/credit-card-default-case)  
+SQL-based data analysis project in BigQuery exploring patterns related to credit risk.
+
+**Focus:** SQL Querying, Data Exploration  
+**Tech stack:** SQL
 
 ---
 
@@ -68,4 +72,4 @@ Python application that processes e-commerce CSV data and generates automated HT
 
 ---
 
-⭐ Feel free to explore my repositories to see my work in backend development and data engineering.
+⭐ Explore my repositories to see practical backend systems, clean architecture principles and structured problem-solving in action.
