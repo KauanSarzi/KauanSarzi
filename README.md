@@ -36,7 +36,7 @@ I design and develop backend applications using Java and Spring Boot, working wi
 Backend system built with Java and Spring Boot that connects students and companies, supporting job postings, authentication, profile management and internship applications through REST APIs and relational database persistence.
 
 **Focus:** Backend Architecture, REST APIs, Database Design  
-**Tech stack:** Java, Spring Boot, SQL
+**Tech stack:** Java, Spring Boot, H2
 
 ---
 
@@ -59,8 +59,8 @@ Python application that processes structured data and generates automated HTML r
 ### 🔹 [Credit Card Default Risk Analysis](https://github.com/KauanSarzi/credit-card-default-case)  
 SQL-based data analysis project in BigQuery exploring patterns related to credit risk.
 
-**Focus:** SQL Querying, Data Exploration  
-**Tech stack:** SQL
+**Focus:** SQL Querying, Data Exploration, Data Visualization
+**Tech stack:** SQL, Looker Studio
 
 ---
 
