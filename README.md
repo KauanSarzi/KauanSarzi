@@ -36,7 +36,7 @@ I design and develop backend applications using Java and Spring Boot, working wi
 Backend system built with Java and Spring Boot that connects students and companies, supporting job postings, authentication, profile management and internship applications through REST APIs and relational database persistence.
 
 **Focus:** Backend Architecture, REST APIs, Database Design  
-**Tech stack:** Java, Spring Boot, H2
+**Tech stack:** Java, Spring Boot, H2 Database
 
 ---
 
