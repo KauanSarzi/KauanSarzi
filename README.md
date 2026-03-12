@@ -33,15 +33,15 @@ I design and develop backend applications using Java and Spring Boot, working wi
 ## 📌 Featured Projects
 
 ### 🔹 [Internship Portal](https://github.com/KauanSarzi/portalestagio)  
-Backend system built with Java and Spring Boot that connects students and companies, supporting job postings, authentication, profile management and internship applications through REST APIs and relational database persistence.
+Backend application developed with Java and Spring Boot that manages students, companies, and internship postings through a RESTful API architecture. The system implements CRUD operations, business rule validation, and relational database persistence, following layered architecture and object-oriented design principles.
 
 **Focus:** Backend Architecture, REST APIs, Database Design  
-**Tech stack:** Java, Spring Boot, H2 Database
+**Tech stack:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database, Maven, Git
 
 ---
 
 ### 🔹 [HTML Analyzer](https://github.com/KauanSarzi/HtmlAnalyzer)  
-Java application that parses and analyzes HTML structure using stack-based logic to identify the deepest text node, demonstrating data structures and algorithmic thinking.
+Java application that analyzes HTML content from a remote URL and identifies the deepest text node by processing the document structure using a stack-based algorithm. The implementation performs manual hierarchical tag validation without external libraries, emphasizing algorithmic problem-solving and data structure usage.
 
 **Focus:** Algorithms, Data Structures, Problem-Solving  
 **Tech stack:** Java
@@ -49,7 +49,7 @@ Java application that parses and analyzes HTML structure using stack-based logic
 ---
 
 ### 🔹 [E-Mack Data Analyzer](https://github.com/KauanSarzi/E-mack)  
-Python application that processes structured data and generates automated HTML reports, reinforcing backend logic and data manipulation.
+Python application that processes structured datasets and generates automated HTML reports, performing data extraction, transformation, and formatting to produce organized analytical outputs.
 
 **Focus:** Data Processing, Structured Logic  
 **Tech stack:** Python
@@ -57,10 +57,10 @@ Python application that processes structured data and generates automated HTML r
 ---
 
 ### 🔹 [Credit Card Default Risk Analysis](https://github.com/KauanSarzi/credit-card-default-case)  
-SQL-based data analysis project in BigQuery exploring patterns related to credit risk.
+Data analysis project developed in Google BigQuery, exploring patterns related to credit card default risk through SQL queries, aggregations, and analytical exploration, with results visualized in interactive dashboards.
 
 **Focus:** SQL Querying, Data Exploration, Data Visualization
-**Tech stack:** SQL, Looker Studio
+**Tech stack:** SQL, Looker Studio, Google Cloud Platform
 
 ---
 
